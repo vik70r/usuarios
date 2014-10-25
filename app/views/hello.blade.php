@@ -27,8 +27,13 @@
 	      <h4 class="list-group-item-heading">vanesa lavilla.</h4>
 	      <p class="list-group-item-text">113558 -jojolete.</p>
 
+<<<<<<< HEAD
 	      <h4 class="list-group-item-heading">Jose Carlos.</h4>
 	      <p class="list-group-item-text">100512 jajajaja.</p>
+=======
+	      <h4 class="list-group-item-heading">win7</h4>
+	      <p class="list-group-item-text">hi</p>
+>>>>>>> 7380b9190ca36f6c428a06c4b3a2361a7369275e
 	    </a>
 	  </div>
 	<hr>
