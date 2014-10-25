@@ -26,6 +26,9 @@
 
 	      <h4 class="list-group-item-heading">vanesa lavilla.</h4>
 	      <p class="list-group-item-text">113558 -jojolete.</p>
+
+	      <h4 class="list-group-item-heading">Jose Carlos.</h4>
+	      <p class="list-group-item-text">100512 jajajaja.</p>
 	    </a>
 	  </div>
 	<hr>
