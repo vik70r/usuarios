@@ -14,6 +14,8 @@
 	      <h4 class="list-group-item-heading">Luzmar obando .</h4>
 	      <p class="list-group-item-text">090224 - Estudiante de Ing. Informatica y de Sistemas.</p>
 	      <h4 class="list-group-item-heading">unsaaaaac .</h4>
+	        <h4 class="list-group-item-heading"> ingenieria software</h4>
+	      <p class="list-group-item-text">090224 - Estudiante de Ing. Informatica y de Sistemas.</p>
 	      <p class="list-group-item-text">090224 - Estudiante de Ing. Informatica y de Sistemas.</p>
 	    </a>
 	  </div>
