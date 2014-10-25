@@ -11,6 +11,8 @@
 	      <p class="list-group-item-text">Estudiante de Ing. Informatica y de Sistemas.</p>
 	      <h4 class="list-group-item-heading">Gerar F.</h4>
 	      <p class="list-group-item-text">Estudiante de Ing. Informatica y de Sistemas.</p>
+	      <h4 class="list-group-item-heading">Luzmar.</h4>
+	      <p class="list-group-item-text">090224 - Estudiante de Ing. Informatica y de Sistemas.</p>
 	    </a>
 	  </div>
 	<hr>
