@@ -18,6 +18,10 @@
 	      <p class="list-group-item-text">090224 - Estudiante de Ing. Informatica y de Sistemas.</p>
 	      <p class="list-group-item-text">090224 - Estudiante de Ing. Informatica y de Sistemas.</p>
 	      <h4 class="list-group-item-heading">jhon.</h4>
+	        <h4 class="list-group-item-heading"> mmmmmmmmmmmmm</h4>
+	          <h4 class="list-group-item-heading">Luzecistaaaaaaaaaaaaaaaa</h4>
+	      <p class="list-group-item-text">090224 - Estudiante de Ing. Informatica y de Sistemas.</p>
+	      <p class="list-group-item-text">090224 - Estudiante de Ing. Informatica y de Sistemas.</p>
 	      <p class="list-group-item-text">103650 - Estudiante de Ing. Informatica y de Sistemas.</p>
 	    </a>
 	  </div>
