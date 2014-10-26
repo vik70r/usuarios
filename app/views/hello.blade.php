@@ -33,6 +33,9 @@
 =======
 	      <h4 class="list-group-item-heading">win7</h4>
 	      <p class="list-group-item-text">hi</p>
+
+	      <h4>Manuel G.</h4>
+	      <p>090216: mi segundo commit... espero que esta vez no sea eliminado.</p>
 >>>>>>> 7380b9190ca36f6c428a06c4b3a2361a7369275e
 	    </a>
 	  </div>
